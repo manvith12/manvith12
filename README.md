@@ -46,10 +46,7 @@
 </p>
 
 <!-- Contribution Graph -->
-## 🥇 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=manvith12&theme=react-dark" alt="Contribution Graph" />
-</p>
+
 
 <!-- Social Media Links -->
 ## 🌐 Connect with me
