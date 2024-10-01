@@ -16,12 +16,13 @@
 
 <!-- About Me Section -->
 ## About Me
-🌱 I’m currently learning: **Data Science & Machine Learning**  
-👯 I’m looking to collaborate on: **Open Source Projects**  
-🤔 I’m looking for help with: **Cloud Computing**  
-💬 Ask me about: **Cryptography & Cybersecurity**  
-📫 How to reach me: [Email](mailto:sanisettykumar24bcs0217@iiitkottayam.ac.in)  
-😄 Pronouns: He/Him  
+- 🌱 I’m currently pursuing **major in CS at [iiitkottayam](https://iiitkottayam.ac.in/#!/home)** 
+- 👯 I’m looking to collaborate on: **Open Source Projects**  
+- 🤔 I’m looking for help with: **computer vision**
+- 💬 tell me about: **Cryptography & Cybersecurity**  
+- 📫 How to reach me: [Email](mailto:sanisettykumar24bcs0217@iiitkottayam.ac.in)  
+- 😄 Pronouns: He/Him  
+- ♟️ chess? YES
 
 <!-- Skills Section -->
 ## 🚀 Skills
