@@ -16,6 +16,8 @@
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+[![An image of @manvith12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manvith12)](https://holopin.io/@manvith12)
+
 <!-- About Me Section -->
 <div style="background: #f0f4f8; padding: 15px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <h2>✨ About Me</h2>
