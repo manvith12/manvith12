@@ -18,10 +18,14 @@ const Manchan = {
 ```
 ---
 
+### 🤖 HACKTOBERFEST
+[![An image of @manvith12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manvith12)](https://holopin.io/@manvith12)
+---
+
 ### 🔥 Currently Cooking
 - 🧠 **Quantum Scheduler** for scientific workflows @ CDAC
-- 🛠 **Ghibli-themed Audio Editor** in Java (dark mode FTW)
-- 💡 **Secret Society Puzzle Club** @ IIITK
+- 🛠 **Algorithm Visuzalizer** in react (dark mode FTW)
+- 💡 **Opensource developers group** @ IIITK
 
 ---
 
@@ -33,22 +37,16 @@ const Manchan = {
 
 </p>
 
+### STAT-Padding
 ---
-
-### 📈 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvith12&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvith12&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
-### 🤖 HACKTOBERFEST
-[![An image of @manvith12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manvith12)](https://holopin.io/@manvith12)
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manvith12&theme=tokyonight&hide_border=true&fire=F75C03&ring=00F5D4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manvith12&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvith12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 💬 Quote That Drives Me
-> _"Be so good they can’t ignore you."_ — Steve Martin
+> _"chippy chips."_ — Cole J Palmer
 
 ---
 
