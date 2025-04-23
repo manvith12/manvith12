@@ -42,6 +42,7 @@ const Manchan = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manvith12&theme=tokyonight&hide_border=true&fire=F75C03&ring=00F5D4" />
   <img src="https://github-readme-stats.vercel.app/api?username=manvith12&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvith12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
