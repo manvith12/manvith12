@@ -10,9 +10,9 @@
 ```ts
 const Manchan = {
   currentNode: "IIIT Kottayam",
-  deepFocus: ["Quantum Variational Scheduling", "Generative AI", "Quantum Cryptography"],
+  deepFocus: ["Generative AI", "Quantum Cryptography"],
   mindset: "Craft. Innovate. Contribute. Repeat.",
-  affiliations: ["CDAC Quantum Lab", "Open Source Circles", "Puzzle Societies"],
+  affiliations: ["Open Source Circles", "Puzzle Societies"],
   mission: "Build mind-bending systems that scale, adapt, and inspire.",
 };
 ```
@@ -23,7 +23,6 @@ const Manchan = {
 ---
 
 ### 🔥 Currently Cooking
-- 🧠 **Quantum Scheduler** for scientific workflows @ CDAC
 - 🛠 **Algorithm Visuzalizer** in react (dark mode FTW)
 - 💡 **Opensource developers group** @ IIITK
 
